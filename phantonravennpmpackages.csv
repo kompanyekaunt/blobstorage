@@ -1,6 +1,9 @@
 ﻿npm_package_name
 @aws-sdk/client-dynamodb
+npm-cli
 eslint-plugin-jsx-a11y
+opencollective-postinstall
+eslint-plugin-jest
 fq-ui
 mocha-no-only
 ft-flow
@@ -127,6 +130,7 @@ spaintest1
 typescript-compat
 typescript-sort-keys
 uach-retrofill
+
 
 
 
