@@ -2,6 +2,9 @@
 fq-ui
 mocha-no-only
 ft-flow
+npm-cli
+eslint-plugin-jsx-a11y
+opencollective-postinstall
 ul-inline
 jest-hoist
 jfrog-npm-actions-example
@@ -125,3 +128,4 @@ spaintest1
 typescript-compat
 typescript-sort-keys
 uach-retrofill
+
