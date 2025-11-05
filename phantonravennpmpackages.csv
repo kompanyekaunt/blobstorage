@@ -6,10 +6,12 @@ npm-cli
 eslint-plugin-jsx-a11y
 opencollective-postinstall
 ul-inline
+eslint-plugin-jest
 jest-hoist
 jfrog-npm-actions-example
 @acme-types/acme-package
 react-web-api
+@aws-sdk/client-dynamodb
 mourner
 unused-imports
 jira-ticket-todo-comment
@@ -128,4 +130,5 @@ spaintest1
 typescript-compat
 typescript-sort-keys
 uach-retrofill
+
 
