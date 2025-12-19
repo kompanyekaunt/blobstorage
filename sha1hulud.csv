@@ -1,4 +1,5 @@
 ﻿hashes,keywords
+660e47d00af463cdb615026565f06d9edb896fee,@accordproject/concerto-analysis
 d60ec97eea19fffb4809bc35b91033b52490ca11,@accordproject/concerto-analysis
 3d7570d14d34b0ba137d502f042b27b0f37a59fa,@accordproject/concerto-linter
 d1829b4708126dcc7bea7437c04d1f10eacd4a16,@accordproject/concerto-linter-default-ruleset
@@ -1637,3 +1638,4 @@ e7eeee0a33bfd685fecc0a3020e2af9755447b12,@trefox/sleekshop-js
 ,zuper-cli
 ,zuper-sdk
 ,zuper-stream
+
