@@ -1,4 +1,6 @@
 ﻿keywords
+msdxm.ocx
+conhost.exe
 @accordproject/concerto-analysis
 @accordproject/concerto-linter
 @accordproject/concerto-linter-default-ruleset
@@ -1637,3 +1639,4 @@ zapier-scripts
 zuper-cli
 zuper-sdk
 zuper-stream
+
